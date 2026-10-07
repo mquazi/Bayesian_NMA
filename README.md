@@ -19,3 +19,11 @@ Two examples are included:
 └── code/
     ├── diabetes.R
     └── hepatectomy.R
+```
+
+
+## Citation
+
+If you use this repository or the accompanying tutorial, please cite:
+
+Quazi M. Bayesian Network Meta-Analysis in R. Manuscript in preparation.
